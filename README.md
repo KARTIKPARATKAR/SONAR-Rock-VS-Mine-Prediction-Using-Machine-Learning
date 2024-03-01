@@ -39,13 +39,17 @@ After training the Logistic Regression model on Train data, We wll get Trained L
 
 ***
 
-Dataset Used for training and testing the logistic regression model is [here](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Copy%20of%20sonar%20data.csv)
+**Dataset** Used for training and testing the logistic regression model is [here](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Copy%20of%20sonar%20data.csv)
 
 ***
 
-Google Collab Workbook is attached here [open](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Sonar_RockVsMine_Prediction_Using_Logistic_Regression.ipynb)
+**Google Collab Workbook** is attached here [open](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Sonar_RockVsMine_Prediction_Using_Logistic_Regression.ipynb)
 
 ***
+
+## Model Evaluation
+
+
 
 
 
