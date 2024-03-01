@@ -30,7 +30,9 @@ As this is a binary classification problem of whether the object detected is Roc
 
 After training the Logistic Regression model on Train data, We wll get Trained Logistic Regression Model.THis model has the capability of distinguishing the detected object by sonar is Rock or Mine. When we give new data, This trained model will give us output as the object detected is rock or mine.
 
-Dataset Used is [here](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Copy%20of%20sonar%20data.csv)
+Dataset Used for training and testing the logistic regression model is [here](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Copy%20of%20sonar%20data.csv)
+
+Google Collab Workbook is attached here [open](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Sonar_RockVsMine_Prediction_Using_Logistic_Regression.ipynb)
 
 
 
