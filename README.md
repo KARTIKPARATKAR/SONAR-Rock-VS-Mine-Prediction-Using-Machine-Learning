@@ -1,13 +1,19 @@
 # ******Sonar Rock VS Mine Prediction using Machine Learing****** 
 
+***
+
 
 ## Problem Statement : 
 In a war situation , two countries are fighting against each other in ocean. Both the countries have mounted Mines inside the ocean so as to prevent other country from invading into their territory by exloading mines as soon as they are above it. Sonar is a equipment which is used to find objects under water using sound waves. There will both rocks and mines be present inside the ocean and the Radar wants to distinquish between both of them. So constructing a machine learning model to predict whether the object detected by sonar is mine or rock.
+
+***
 
 
 ![Sonar ML](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/assets/100400207/a29bf00c-d94d-49c3-a92c-8f390e5a1427)
 
 **In the above image**, a sonar equipment can be seen inside the oscean and mine is mounted at the bottom of sea with rock.
+
+***
 
 ## **Work-Flow Of model:** ##
 
@@ -30,6 +36,8 @@ As this is a binary classification problem of whether the object detected is Roc
 **4)Trained Logistic-Regression Model-**
 
 After training the Logistic Regression model on Train data, We wll get Trained Logistic Regression Model.THis model has the capability of distinguishing the detected object by sonar is Rock or Mine. When we give new data, This trained model will give us output as the object detected is rock or mine.
+
+***
 
 Dataset Used for training and testing the logistic regression model is [here](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/blob/main/Copy%20of%20sonar%20data.csv)
 
