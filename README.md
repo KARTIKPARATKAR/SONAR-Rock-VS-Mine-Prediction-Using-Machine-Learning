@@ -1,1 +1,3 @@
-# Projects-Based-on-Machine-Learning
+Sonar Rock VS Mine Prediction using Machine Learing
+
+
