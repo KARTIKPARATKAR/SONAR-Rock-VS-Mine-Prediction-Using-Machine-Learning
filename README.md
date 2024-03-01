@@ -56,6 +56,14 @@ Here, You can observe that I have got a accuracy of 83% on training data and acc
 
 ## Model predicting the detected object as Mine
 
+![mine example output](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/assets/100400207/69991814-ef1e-4977-bc79-086b64552000)
+
+***
+
+## model predicting the detected object as Rock
+
+
+
 
 
 
