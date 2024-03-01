@@ -48,6 +48,13 @@ After training the Logistic Regression model on Train data, We wll get Trained L
 ***
 
 ## Model Evaluation
+![model evaluation](https://github.com/KARTIKPARATKAR/Projects-Based-on-Machine-Learning/assets/100400207/00bdb694-6aaa-4fe7-9e8f-b55c169f1ade)
+
+Here, You can observe that I have got a accuracy of 83% on training data and accuracy of 73% on testing data.
+
+***
+
+## Model predicting the detected object as Mine
 
 
 
